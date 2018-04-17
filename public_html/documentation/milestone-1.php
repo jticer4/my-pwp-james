@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<h3>Purpose:</h3>
-			<p>I want my PWP to serve as a portfolio so that I am able to market myself to employers after bootcamp.</p>
+			<p>I want my PWP to serve as a portfolio so that I am able use to market myself to employers after bootcamp.</p>
 		<h3>Audience:</h3>
 			<p>The audience for my site will be potential employers.</p>
 		<h3>Goal:</h3>
@@ -22,7 +22,7 @@
 				<p>iPhone 7 running iOS 11 and an HP Envy running the latest version of Windows 10.</p>
 			<h4>Attitudes:</h4>
 				<p>______ is part of the Human Resources Department and doesn't know very much about designing software._____ is
-				impatient and doesn't want to learn software development in order to find the right employee.
+					impatient and doesn't want to learn software development in order to find the right employee.</p>
 			<h4>Behaviors:</h4>
 				<p>______ has been reading resumes all day and is starting to become frustrated.</p>
 			<h4>Goal:</h4>
