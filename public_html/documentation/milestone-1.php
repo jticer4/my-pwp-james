@@ -12,7 +12,7 @@
 			<p>The audience for my site will be potential employers.</p>
 		<h3>Goal:</h3>
 			<p>To acquire full-time employment. </p>
-		<h3>Persona</h3>
+		<h2>Persona</h2>
 			<h4>Name:</h4>
 				<p>Pamela Slanderson</p>
 			<h4>Gender:</h4>
