@@ -5,6 +5,7 @@
 		<title>My PWP</title>
 	</head>
 	<body>
+		<h1>My Pwp James</h1>
 		<h3>Purpose:</h3>
 			<p>I want my PWP to serve as a portfolio so that I am able use to market myself to employers after bootcamp.</p>
 		<h3>Audience:</h3>
