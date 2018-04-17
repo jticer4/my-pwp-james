@@ -13,7 +13,7 @@
 			<p>To acquire full-time employment. </p>
 		<h3>Persona</h3>
 			<h4>Name:</h4>
-				<p></p>
+				<p>Pamela Slanderson</p>
 			<h4>Gender:</h4>
 				<p>Female</p>
 			<h4>Age:</h4>
@@ -21,12 +21,12 @@
 			<h4>Technology:</h4>
 				<p>iPhone 7 running iOS 11 and an HP Envy running the latest version of Windows 10.</p>
 			<h4>Attitudes:</h4>
-				<p>______ is part of the Human Resources Department and doesn't know very much about designing software._____ is
+				<p>Pamela is part of the Human Resources Department and doesn't know very much about designing software._____ is
 					impatient and doesn't want to learn software development in order to find the right employee.</p>
 			<h4>Behaviors:</h4>
-				<p>______ has been reading resumes all day and is starting to become frustrated.</p>
+				<p>Pamela has been reading resumes all day and is starting to become frustrated.</p>
 			<h4>Goal:</h4>
-				<p>Without knowing too much, ______wants to feel confident hiring somebody who knows what they're doing.</p>
+				<p>Without knowing too much, Pamela wants to feel confident hiring somebody who knows what they're doing.</p>
 			<h4>Frustrations:</h4>
 				<ul>
 					<li>Hiring employees who are unable/unwilling to learn.</li>
