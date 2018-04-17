@@ -21,7 +21,7 @@
 			<h4>Technology:</h4>
 				<p>iPhone 7 running iOS 11 and an HP Envy running the latest version of Windows 10.</p>
 			<h4>Attitudes:</h4>
-				<p>Pamela is part of the Human Resources Department and doesn't know very much about designing software._____ is
+				<p>Pamela is part of the Human Resources Department and doesn't know very much about designing software. She is
 					impatient and doesn't want to learn software development in order to find the right employee.</p>
 			<h4>Behaviors:</h4>
 				<p>Pamela has been reading resumes all day and is starting to become frustrated.</p>
