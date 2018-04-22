@@ -12,9 +12,10 @@ A few key words and phrases stood out to me:
 - "_excited_" and "_...able to contribute right away..._"
 - ...and all of Pamela's frustrations
 
-This is really great stuff here - I'm looking forward to seeing how you address the points above in your content strategy and UI design phase ahead. Your project is all set up to spec and your code looks great - nice job.
+This is really great stuff here - I'm looking forward to seeing how you address the points above in your content strategy and UI design phase ahead. Your project is all set up to spec and your code looks good - nice job.
 
-Your Milestone 1 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are now clear to begin work on Milestone 2&alpha;.
+Your Milestone 1 passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are now clear to begin work on Milestone 2&alpha;.
 
 #### Edits &amp; Suggestions
 - Be sure to add `/vendor` to your .gitignore
+- Keep an eye on yout HTML indentation - you shouldn't indent the tags falling after your `<h4>` headings - these are not children of the `<h4>` elements.
