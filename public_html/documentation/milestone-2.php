@@ -39,5 +39,23 @@
 			the user clicks on the email logo it will automatically open their default email application and auto populate
 			my email address into the "to" section of the email.
 		</p>
+		<h1>Wireframes</h1>
+		<h3>Mobile:</h3>
+		<img src="mobile1.png" alt="mobile wireframe 1">
+		<img src="mobile2.png" alt="mobile wireframe 2">
+		<img src="mobile3.png" alt="mobile wireframe 3">
+		<img src="mobile4.png" alt="mobile wireframe 4">
+		<img src="mobile5.png" alt="mobile wireframe 5">
+		<img src="mobile6.png" alt="mobile wireframe 6">
+		<img src="mobile7.png" alt="mobile wireframe 7">
+		<img src="mobile8.png" alt="mobile wireframe 8">
+		<h3>Desktop:</h3>
+		<img src="desktop1.png" alt="desktop wireframe 1">
+		<img src="desktop2.png" alt="desktop wireframe 2">
+		<img src="desktop3.png" alt="desktop wireframe 3">
+		<img src="desktop4.png" alt="desktop wireframe 4">
+		<img src="desktop5.png" alt="desktop wireframe 5">
+		<img src="desktop6.png" alt="desktop wireframe 6">
+		<img src="desktop7.png" alt="desktop wireframe 7">
 	</body>
 </html>
