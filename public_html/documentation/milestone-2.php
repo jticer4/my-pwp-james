@@ -2,7 +2,7 @@
 <html>
 	<head lang="en">
 		<meta charset="utf-8">
-		<title>Milestone 2</title>
+		<title>Content Strategy and Wireframes</title>
 	</head>
 	<body>
 		<h1>Content Strategy</h1>
