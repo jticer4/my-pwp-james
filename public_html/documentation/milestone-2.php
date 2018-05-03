@@ -8,12 +8,12 @@
 		<h1>Content Strategy</h1>
 		<p><strong>My site will be one page, and will consist of the following sections:</strong></p>
 		<h3>Overall</h3>
-		<p>I want to include my favorite quotes(or quotes about me) below each of the main headings.(these quotes will
-			serve to address common concerns that technical leads or recruiters may have)</p>
+		<p>I want to include my favorite quotes (or quotes about me) below each of the main headings (these quotes will
+			serve to address common concerns that technical leads or recruiters may have).</p>
 		<h3>Welcome</h3>
 		<p>A brief one-line introduction that clearly states my name and role as a Software Developer. This welcome
 			message will be overlaid on a large background image of the island I grew up on, Kauai.
-			Additionally, I will include sticky links to my Git, LinkedIn, Twitter, and Email, in the top right corner.
+			Additionally, I will include sticky links to my Github, LinkedIn, Twitter, and Email, in the top right corner.
 			I will also include a drop down menu in the top left corner that will allow users to quickly navigate to the
 			main sections of my site. This drop down menu will stay fixed in the top left corner as the user scrolls
 			through the page. Lastly, there will be a tiny arrow at the very bottom, prompting the user to scroll down.
