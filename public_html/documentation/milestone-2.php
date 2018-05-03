@@ -19,7 +19,7 @@
 			through the page. Lastly, there will be a tiny arrow at the very bottom, prompting the user to scroll down.
 		</p>
 		<h3>Profile</h3>
-		<p>This section will consist of an "about me" & "details" section. The about me section will provide a quick high
+		<p>This section will consist of an "about me" and "details" section. The about me section will provide a quick high
 			level overview of my most notable accomplishments, and will be written in my own "voice". The details section
 			will provide some basic information about me, such as, my name, age, location, and a button to follow me on
 			twitter. This section will also include an image of my professional headshot.
