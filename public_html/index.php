@@ -44,14 +44,24 @@
 
 		<div class="container-fluid text-center">
 			<h3>Experience and Projects</h3>
+			<p><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
+			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
 		</div>
 
 		<div class="container-fluid text-center">
-			<h3>Abilities</h3>
-		</div>
-
-		<div class="container-fluid text-center">
-			<h3>Tools</h3>
+			<h3>Languages and Technologies</h3>
+			<ul class="text-left">
+				<li>PHP</li>
+				<li>Object Oriented Programming</li>
+				<li>JavaScript</li>
+				<li>Unit Testing</li>
+				<li>SQL and Data Design</li>
+				<li>Angular and Node.js</li>
+				<li>REST APIs</li>
+				<li>HTML, CSS, Bootstrap, and UI/UX Design</li>
+				<li>Security</li>
+				<li>Design Patterns</li>
+			</ul>
 		</div>
 
 		<div class="container-fluid text-center">
