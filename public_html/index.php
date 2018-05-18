@@ -19,24 +19,43 @@
 		<title>James Ticer PWP</title>
 	</head>
 	<body>
-		<div class="container">
-			<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-				<a class="navbar-brand" href="#">James Ticer</a>
-				<ul class="navbar-nav ml-auto">
-					<li class="nav-item  fab fa-github">
-						<a class="nav-link" href="#">
-					</li>
-					<li class="nav-item fab fa-linkedin-in">
-						<a class="nav-link" href="#">
-					</li>
-					<li class="nav-item fab fa-twitter">
-						<a class="nav-link" href="#">
-					</li>
-					<li class="nav-item fas fa-envelope">
-						<a class="nav-link" href="#">
-					</li>
-				</ul>
+		<div>
+			<nav class="navbar">
+				<a class="navbar-brand">James Ticer</a>
+				<span class="inline-block ml-auto">
+				<a href="https://google.com">GitHub</a>
+				<a href="https://google.com">LinkedIn</a>
+				<a href="https://google.com">Twitter</a>
+				<a href="https://google.com">Email</a>
+					</span>
 			</nav>
+		</div>
+
+		<div class="container-fluid text-center">
+			<h3>Profile</h3>
+			<p>Eliptical talk. You do know, you do know that they don’t want you to have lunch. I’m keeping it real with you, so what you going do is have lunch. The ladies always say Khaled you smell good, I use no cologne. Cocoa butter is the key. Lion! We the best. Lion! We don’t see them, we will never see them. The key to more success is to get a massage once a week, very important, major key, cloth talk. Congratulations, you played yourself. They don’t want us to win. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion!</p>
+		</div>
+
+		<div class="container-fluid text-center">
+			<h3>Education</h3>
+			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding 			Bootcamp</p>
+			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
+		</div>
+
+		<div class="container-fluid text-center">
+			<h3>Experience and Projects</h3>
+		</div>
+
+		<div class="container-fluid text-center">
+			<h3>Abilities</h3>
+		</div>
+
+		<div class="container-fluid text-center">
+			<h3>Tools</h3>
+		</div>
+
+		<div class="container-fluid text-center">
+			<h3>Contact Me</h3>
 		</div>
 	</body>
 </html>
