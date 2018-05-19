@@ -66,6 +66,30 @@
 
 		<div class="container-fluid text-center">
 			<h3>Contact Me</h3>
+			<form>
+				<div>
+					<div class="text-left">
+					<label for="name">Name:</label>
+					<input type="text">
+					</div>
+
+					<div class="text-left">
+					<label for="email">Email:</label>
+					<input type="email">
+					</div>
+
+					<div class="text-left">
+					<label for="phoneNumber">Phone:</label>
+					<input type="tel">
+					</div>
+					<!-- TODO MAKE THIS TEXT AREA RESPONSIVE -->
+					<div class="text-left">
+					<label for="message">Message:</label>
+					<textarea name="message" cols="30" rows="10"></textarea>
+					</div>
+
+				</div>
+			</form>
 		</div>
 	</body>
 </html>
