@@ -150,22 +150,22 @@
 			<form>
 					<div class="text-left">
 					<label for="name">Name:</label>
-					<input type="text">
+					<input class="float-right" type="text">
 					</div>
 
 					<div class="text-left">
 					<label for="email">Email:</label>
-					<input type="email">
+					<input class="float-right" type="email">
 					</div>
 
 					<div class="text-left">
 					<label for="phoneNumber">Phone:</label>
-					<input type="tel">
+					<input class="float-right" type="tel">
 					</div>
 					<!-- TODO MAKE THIS TEXT AREA RESPONSIVE -->
 					<div class="text-left">
 					<label for="message">Message:</label>
-					<textarea name="message" cols="30" rows="10"></textarea>
+					<textarea class="float-right" name="message" cols="30" rows="10"></textarea>
 					</div>
 
 					<div>
