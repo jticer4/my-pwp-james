@@ -148,7 +148,6 @@
 		<div class="container-fluid text-center">
 			<h3>Contact Me</h3>
 			<form>
-				<div>
 					<div class="text-left">
 					<label for="name">Name:</label>
 					<input type="text">
@@ -169,7 +168,10 @@
 					<textarea name="message" cols="30" rows="10"></textarea>
 					</div>
 
-				</div>
+					<div>
+						<button type="button" class="btn btn-primary">Submit</button>
+					</div>
+
 			</form>
 		</div>
 	</body>
