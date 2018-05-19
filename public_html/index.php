@@ -51,7 +51,7 @@
 		<div class="container-fluid text-center">
 			<h3>Edumacations</h3>
 			<hr>
-			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding 			Bootcamp</p>
+			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding Bootcamp</p>
 			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
 		</div>
 
@@ -167,6 +167,7 @@
 					<label for="phoneNumber">Phone:</label>
 					<input type="tel">
 				</div>
+
 					<hr>
 					<!-- TODO MAKE THIS TEXT AREA RESPONSIVE -->
 				<div class="text-left">
@@ -177,7 +178,6 @@
 				<hr>
 
 				<button type="button" class="btn btn-primary">Submit</button>
-
 
 			</form>
 		</div>
