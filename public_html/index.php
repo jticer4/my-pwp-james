@@ -21,7 +21,18 @@
 	<body>
 		<div>
 			<nav class="navbar">
-				<a class="navbar-brand">James Ticer</a>
+				<div class="dropdown">
+					<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<i class="fas fa-bars"></i>
+					</button>
+					<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+						<a class="dropdown-item" href="#">Profile</a>
+						<a class="dropdown-item" href="#">Edumacations</a>
+						<a class="dropdown-item" href="#">Experience and Projects</a>
+						<a class="dropdown-item" href="#">Languages and Technologies</a>
+						<a class="dropdown-item" href="#">Contact Me</a>
+					</div>
+				</div>
 				<span class="inline-block ml-auto">
 				<a class="fab fa-github" href="https://google.com"></a>
 				<a class="fab fa-linkedin" href="https://google.com"></a>
@@ -37,7 +48,7 @@
 		</div>
 
 		<div class="container-fluid text-center">
-			<h3>Education</h3>
+			<h3>Edumacations</h3>
 			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding 			Bootcamp</p>
 			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
 		</div>
@@ -51,16 +62,86 @@
 		<div class="container-fluid text-center">
 			<h3>Languages and Technologies</h3>
 			<ul class="text-left">
-				<li>PHP</li>
-				<li>Object Oriented Programming</li>
-				<li>JavaScript</li>
-				<li>Unit Testing</li>
-				<li>SQL and Data Design</li>
-				<li>Angular and Node.js</li>
-				<li>REST APIs</li>
-				<li>HTML, CSS, Bootstrap, and UI/UX Design</li>
-				<li>Security</li>
-				<li>Design Patterns</li>
+				<div>
+					<li>PHP</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>Object Oriented Programming</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>JavaScript</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>Unit Testing</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>SQL and Data Design</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>Angular and Node.js</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>REST APIs</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>HTML, CSS, Bootstrap, and UI/UX Design</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>Security</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
+				<div>
+					<li>Design Patterns</li>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</div>
 			</ul>
 		</div>
 
