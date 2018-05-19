@@ -44,23 +44,27 @@
 
 		<div class="container-fluid text-center">
 			<h3>Profile</h3>
+			<hr>
 			<p>Eliptical talk. You do know, you do know that they don’t want you to have lunch. I’m keeping it real with you, so what you going do is have lunch. The ladies always say Khaled you smell good, I use no cologne. Cocoa butter is the key. Lion! We the best. Lion! We don’t see them, we will never see them. The key to more success is to get a massage once a week, very important, major key, cloth talk. Congratulations, you played yourself. They don’t want us to win. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion!</p>
 		</div>
 
 		<div class="container-fluid text-center">
 			<h3>Edumacations</h3>
+			<hr>
 			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding 			Bootcamp</p>
 			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
 		</div>
 
 		<div class="container-fluid text-center">
 			<h3>Experience and Projects</h3>
+			<hr>
 			<p><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
 			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
 		</div>
 
 		<div class="container-fluid text-center">
 			<h3>Languages and Technologies</h3>
+			<hr>
 			<ul class="text-left">
 				<div>
 					<li>PHP</li>
@@ -147,30 +151,33 @@
 
 		<div class="container-fluid text-center">
 			<h3>Contact Me</h3>
+			<hr>
 			<form>
 					<div class="text-left">
 					<label for="name">Name:</label>
-					<input class="float-right" type="text">
+					<input type="text">
 					</div>
 
 					<div class="text-left">
 					<label for="email">Email:</label>
-					<input class="float-right" type="email">
+					<input type="email">
 					</div>
 
 					<div class="text-left">
 					<label for="phoneNumber">Phone:</label>
-					<input class="float-right" type="tel">
+					<input type="tel">
 					</div>
+					<hr>
 					<!-- TODO MAKE THIS TEXT AREA RESPONSIVE -->
 					<div class="text-left">
 					<label for="message">Message:</label>
-					<textarea class="float-right" name="message" cols="30" rows="10"></textarea>
+					<textarea name="message" cols="30" rows="10"></textarea>
 					</div>
 
-					<div>
-						<button type="button" class="btn btn-primary">Submit</button>
-					</div>
+					<hr>
+
+					<button type="button" class="btn btn-primary">Submit</button>
+
 
 			</form>
 		</div>
