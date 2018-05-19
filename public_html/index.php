@@ -34,10 +34,10 @@
 					</div>
 				</div>
 				<span class="inline-block ml-auto">
-				<a class="fab fa-github" href="https://google.com"></a>
-				<a class="fab fa-linkedin" href="https://google.com"></a>
-				<a class="fab fa-twitter" href="https://google.com"></a>
-				<a class="fas fa-envelope" href="https://google.com"></a>
+					<a class="fab fa-github" href="https://google.com"></a>
+					<a class="fab fa-linkedin" href="https://google.com"></a>
+					<a class="fab fa-twitter" href="https://google.com"></a>
+					<a class="fas fa-envelope" href="https://google.com"></a>
 					</span>
 			</nav>
 		</div>
@@ -153,30 +153,30 @@
 			<h3>Contact Me</h3>
 			<hr>
 			<form>
-					<div class="text-left">
+				<div class="text-left">
 					<label for="name">Name:</label>
 					<input type="text">
-					</div>
+				</div>
 
-					<div class="text-left">
+				<div class="text-left">
 					<label for="email">Email:</label>
 					<input type="email">
-					</div>
+				</div>
 
-					<div class="text-left">
+				<div class="text-left">
 					<label for="phoneNumber">Phone:</label>
 					<input type="tel">
-					</div>
+				</div>
 					<hr>
 					<!-- TODO MAKE THIS TEXT AREA RESPONSIVE -->
-					<div class="text-left">
+				<div class="text-left">
 					<label for="message">Message:</label>
 					<textarea name="message" cols="30" rows="10"></textarea>
-					</div>
+				</div>
 
-					<hr>
+				<hr>
 
-					<button type="button" class="btn btn-primary">Submit</button>
+				<button type="button" class="btn btn-primary">Submit</button>
 
 
 			</form>
