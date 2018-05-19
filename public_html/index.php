@@ -23,10 +23,10 @@
 			<nav class="navbar">
 				<a class="navbar-brand">James Ticer</a>
 				<span class="inline-block ml-auto">
-				<a href="https://google.com">GitHub</a>
-				<a href="https://google.com">LinkedIn</a>
-				<a href="https://google.com">Twitter</a>
-				<a href="https://google.com">Email</a>
+				<a class="fab fa-github" href="https://google.com"></a>
+				<a class="fab fa-linkedin" href="https://google.com"></a>
+				<a class="fab fa-twitter" href="https://google.com"></a>
+				<a class="fas fa-envelope" href="https://google.com"></a>
 					</span>
 			</nav>
 		</div>
