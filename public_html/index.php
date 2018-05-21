@@ -51,13 +51,16 @@
 		<div class="container-fluid text-center">
 			<h3>Profile</h3>
 			<hr>
-			<h5>About Me</h5>
+			<h5><strong>About Me</strong></h5>
 			<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
-			<h5>Details</h5>
+
+			<img class="rounded-circle" src="pic-of-me.jpg" alt="picture of me">
+
+			<h5><strong>Details</strong></h5>
 			<p><strong>Name:</strong></p>
 			<p>James E Ticer IV</p>
 			<p><strong>Age:</strong></p>
-			<p>25 years young</p>
+			<p>25</p>
 			<p><strong>Location:</strong></p>
 			<p>Albuquerque, NM</p>
 		</div>
@@ -81,82 +84,92 @@
 			<hr>
 			<ul class="text-left">
 
-					<li>PHP</li>
+					<li>PHP
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
+					</li>
 
-					<li>Object Oriented Programming</li>
+					<li>Object Oriented Programming
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-
-
-					<li>JavaScript</li>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
+					</li>
 
 
-					<li>Unit Testing</li>
+					<li>JavaScript
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-
-					<li>SQL and Data Design</li>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					</li>
 
 
-					<li>Angular and Node.js</li>
+					<li>Unit Testing
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					</li>
+
+					<li>SQL and Data Design
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
+					</li>
 
 
-					<li>REST APIs</li>
+					<li>Angular and Node.js
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					</li>
 
 
-					<li>HTML, CSS, Bootstrap, and UI/UX Design</li>
+					<li>REST APIs
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					</li>
 
 
-					<li>Security</li>
+					<li>HTML, CSS, Bootstrap, and UI/UX Design
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
+					</li>
 
 
-					<li>Design Patterns</li>
+					<li>Security
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					</li>
+
+
+					<li>Design Patterns
 					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					</li>
 
 			</ul>
 		</div>
