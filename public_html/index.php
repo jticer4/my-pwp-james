@@ -42,10 +42,24 @@
 			</nav>
 		</div>
 
+		<div>
+			<h3 class="text-center">James Ticer</h3>
+			<hr>
+			<h5 class="text-center">Software Developer</h5>
+		</div>
+
 		<div class="container-fluid text-center">
 			<h3>Profile</h3>
 			<hr>
-			<p>Eliptical talk. You do know, you do know that they don’t want you to have lunch. I’m keeping it real with you, so what you going do is have lunch. The ladies always say Khaled you smell good, I use no cologne. Cocoa butter is the key. Lion! We the best. Lion! We don’t see them, we will never see them. The key to more success is to get a massage once a week, very important, major key, cloth talk. Congratulations, you played yourself. They don’t want us to win. Let me be clear, you have to make it through the jungle to make it to paradise, that’s the key, Lion!</p>
+			<h5>About Me</h5>
+			<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
+			<h5>Details</h5>
+			<p><strong>Name:</strong></p>
+			<p>James E Ticer IV</p>
+			<p><strong>Age:</strong></p>
+			<p>25 years young</p>
+			<p><strong>Location:</strong></p>
+			<p>Albuquerque, NM</p>
 		</div>
 
 		<div class="container-fluid text-center">
@@ -66,86 +80,84 @@
 			<h3>Languages and Technologies</h3>
 			<hr>
 			<ul class="text-left">
-				<div>
+
 					<li>PHP</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
 					<li>Object Oriented Programming</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
+
 					<li>JavaScript</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
+
 					<li>Unit Testing</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
 					<li>SQL and Data Design</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
+
 					<li>Angular and Node.js</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
+
 					<li>REST APIs</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
+
 					<li>HTML, CSS, Bootstrap, and UI/UX Design</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
+
 					<li>Security</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
-				<div>
+
+
 					<li>Design Patterns</li>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-				</div>
+
 			</ul>
 		</div>
 
@@ -154,25 +166,20 @@
 			<hr>
 			<form>
 				<div class="text-left">
-					<label for="name">Name:</label>
-					<input type="text">
+					<input type="text" placeholder="Name:">
 				</div>
 
 				<div class="text-left">
-					<label for="email">Email:</label>
-					<input type="email">
+					<input type="email" placeholder="Email:">
 				</div>
 
 				<div class="text-left">
-					<label for="phoneNumber">Phone:</label>
-					<input type="tel">
+					<input type="tel" placeholder="Phone Number:">
 				</div>
 
-					<hr>
 					<!-- TODO MAKE THIS TEXT AREA RESPONSIVE -->
 				<div class="text-left">
-					<label for="message">Message:</label>
-					<textarea name="message" cols="30" rows="10"></textarea>
+					<textarea name="message" cols="30" rows="10" placeholder="Message:"></textarea>
 				</div>
 
 				<hr>
@@ -181,5 +188,55 @@
 
 			</form>
 		</div>
+
+
+		<!-- Footer -->
+		<footer class="page-footer font-small cyan darken-3 mt-1">
+
+			<!-- Footer Links -->
+			<div class="container">
+
+				<!-- Grid row-->
+				<div class="row">
+
+					<!-- Grid column -->
+					<div class="col-md-12 py-5">
+						<div class="text-center">
+
+							<!--  GitHub-->
+							<a>
+								<i class="fab fa-github white-text mr-md-5 mr-3 fa-2x"> </i>
+							</a>
+							<!-- LinkedIn -->
+							<a class="tw-ic">
+								<i class="fab fa-linkedin white-text mr-md-5 mr-3 fa-2x"> </i>
+							</a>
+							<!-- Twitter -->
+							<a class="gplus-ic">
+								<i class="fab fa-twitter white-text mr-md-5 mr-3 fa-2x"> </i>
+							</a>
+							<!-- Email -->
+							<a class="li-ic">
+								<i class="fas fa-envelope white-text mr-md-5 mr-3 fa-2x"> </i>
+							</a>
+						</div>
+					</div>
+					<!-- Grid column -->
+
+				</div>
+				<!-- Grid row-->
+
+			</div>
+			<!-- Footer Links -->
+
+			<!-- Copyright -->
+			<div class="footer-copyright text-center py-3">© 2018 Copyright:
+				<a> James E Ticer IV</a>
+			</div>
+			<!-- Copyright -->
+
+		</footer>
+		<!-- Footer -->
+
 	</body>
 </html>
