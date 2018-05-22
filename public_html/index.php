@@ -58,17 +58,21 @@
 		<i class="fas fa-caret-down mt-5 pt-5 mb-3 pb-3"></i>
 		</div>
 		<!-- my profile section -->
+		<h3 class="text-center" id="profile">Profile</h3>
+		<hr>
 		<div class="container-fluid text-center">
-			<h3 id="profile">Profile</h3>
-			<hr>
+			<div class="row">
+				<div class="col-md-4 text-right">
 			<!-- about me section -->
 			<h5><strong>About Me</strong></h5>
 			<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
-
+				</div>
+				<div class="col-md-4">
 			<!-- picture of me -->
 			<img class="rounded-circle" src="pic-of-me.jpg" alt="picture of me">
-
+				</div>
 			<!-- profile details section -->
+				<div class="col-md-4 text-left">
 			<h5><strong>Details</strong></h5>
 			<p><strong>Name:</strong></p>
 			<p>James E Ticer IV</p>
@@ -76,6 +80,8 @@
 			<p>25</p>
 			<p><strong>Location:</strong></p>
 			<p>Albuquerque, NM</p>
+					</div>
+			</div>
 		</div>
 		<!-- edumacations section -->
 		<div class="container-fluid text-center">
@@ -212,7 +218,7 @@
 				</div>
 
 				<div class="text-center">
-					<textarea name="message" cols="20" rows="10" placeholder="Message:"></textarea>
+					<textarea name="message" cols="30" rows="10" placeholder="Message:"></textarea>
 				</div>
 
 				<hr>
@@ -263,7 +269,7 @@
 			<!-- Footer Links -->
 
 			<!-- Copyright -->
-			<div class="footer-copyright text-center text-light">© 2018 Copyright:
+			<div class="footer-copyright text-center text-light pb-3">© 2018 Copyright:
 				<a> James E Ticer IV</a>
 			</div>
 			<!-- Copyright -->
