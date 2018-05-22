@@ -54,9 +54,12 @@
 			<hr>
 			<h5 class="text-center mb-5 pb-5">Software Developer</h5>
 		</div>
+		<div class="text-center mt-5 pt-5">
+		<i class="fas fa-caret-down mt-5 pt-5 mb-3 pb-3"></i>
+		</div>
 		<!-- my profile section -->
-		<div class="container-fluid text-center mt-5 pt-5">
-			<h3 class="mt-5 pt-5" id="profile">Profile</h3>
+		<div class="container-fluid text-center">
+			<h3 id="profile">Profile</h3>
 			<hr>
 			<!-- about me section -->
 			<h5><strong>About Me</strong></h5>
