@@ -26,7 +26,7 @@
 			<nav class="navbar">
 				<!-- dropdown button -->
 				<div class="dropdown">
-					<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<button class="btn btn-light dropdown" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						<i class="fas fa-bars"></i>
 					</button>
 					<!-- content within the drop down button -->
@@ -40,10 +40,10 @@
 				</div>
 				<!-- social media links -->
 				<span class="inline-block ml-auto">
-					<a class="fab fa-github" href="https://github.com/jticer4" target="_blank"></a>
-					<a class="fab fa-linkedin" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
-					<a class="fab fa-twitter" href="https://twitter.com/?lang=en" target="_blank"></a>
-					<a class="fas fa-envelope" href="mailto:jticer4@gmail.com"></a>
+					<a id="git" class="fab fa-github" href="https://github.com/jticer4" target="_blank"></a>
+					<a id="linkedin" class="fab fa-linkedin" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
+					<a id="twitter" class="fab fa-twitter" href="https://twitter.com/?lang=en" target="_blank"></a>
+					<a id="mail" class="fas fa-envelope" href="mailto:jticer4@gmail.com"></a>
 					</span>
 			</nav>
 		</div>

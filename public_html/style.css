@@ -2,7 +2,22 @@
 	color: gold;
 }
 
-#down {
-	display: inline-block;
-	text-align: center;
+#git {
+	font-size: 1.5rem;
+	color: black;
+}
+
+#linkedin {
+	font-size: 1.5rem;
+	color: black;
+}
+
+#twitter {
+	font-size: 1.5rem;
+	color: black;
+}
+
+#mail {
+	font-size: 1.5rem;
+	color: black;
 }
