@@ -42,14 +42,13 @@
 			</nav>
 		</div>
 
-		<div>
-			<h3 class="text-center">James Ticer</h3>
+		<div class="pb-2">
+			<h3 class="text-center mt-5 pt-5">James Ticer</h3>
 			<hr>
-			<h5 class="text-center">Software Developer</h5>
+			<h5 class="text-center mb-5 pb-5">Software Developer</h5>
 		</div>
-
-		<div class="container-fluid text-center">
-			<h3>Profile</h3>
+		<div class="container-fluid text-center mt-5 pt-5">
+			<h3 class="mt-5 pt-5">Profile</h3>
 			<hr>
 			<h5><strong>About Me</strong></h5>
 			<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
@@ -85,92 +84,84 @@
 			<ul class="text-left">
 
 					<li>PHP
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
 					</li>
 
-					<li>Object Oriented Programming
+				<li>SQL and Data Design
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
-					</li>
+				</li>
 
+				<li>Object Oriented Programming
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</li>
+
+				<li>HTML, CSS, Bootstrap, and UI/UX Design
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</li>
 
 					<li>JavaScript
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="far fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="far fa-star" aria-hidden="true"></i>
 					</li>
-
 
 					<li>Unit Testing
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="far fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="far fa-star" aria-hidden="true"></i>
 					</li>
-
-					<li>SQL and Data Design
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					</li>
-
-
-					<li>Angular and Node.js
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="far fa-star" aria-hidden="true"></i>
-					<i class="far fa-star" aria-hidden="true"></i>
-					</li>
-
 
 					<li>REST APIs
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="far fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="far fa-star" aria-hidden="true"></i>
 					</li>
-
-
-					<li>HTML, CSS, Bootstrap, and UI/UX Design
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					</li>
-
 
 					<li>Security
-					<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="far fa-star" aria-hidden="true"></i>
+					</li>
+
+				<li>Angular and Node.js
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="far fa-star" aria-hidden="true"></i>
-					</li>
-
+					<i class="far fa-star" aria-hidden="true"></i>
+				</li>
 
 					<li>Design Patterns
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="fa fa-star" aria-hidden="true"></i>
-					<i class="far fa-star" aria-hidden="true"></i>
-					<i class="far fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="far fa-star" aria-hidden="true"></i>
+						<i class="far fa-star" aria-hidden="true"></i>
 					</li>
-
 			</ul>
 		</div>
 
@@ -243,7 +234,7 @@
 			<!-- Footer Links -->
 
 			<!-- Copyright -->
-			<div class="footer-copyright text-center py-3">© 2018 Copyright:
+			<div class="footer-copyright text-center">© 2018 Copyright:
 				<a> James E Ticer IV</a>
 			</div>
 			<!-- Copyright -->
