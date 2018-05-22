@@ -21,3 +21,11 @@
 	font-size: 1.5rem;
 	color: black;
 }
+
+#title-hr {
+	width: 30%;
+	background-color: black;
+	height: 1px;
+	border: 0;
+
+}

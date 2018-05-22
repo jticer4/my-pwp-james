@@ -51,7 +51,7 @@
 		<div class="pb-2">
 			<!-- my title section -->
 			<h3 class="text-center mt-5 pt-5">James Ticer</h3>
-			<hr>
+			<hr id="title-hr">
 			<h5 class="text-center mb-5 pb-5">Software Developer</h5>
 		</div>
 		<div class="text-center mt-5 pt-5">
