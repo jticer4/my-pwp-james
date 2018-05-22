@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+		<link rel="stylesheet" href="style.css">
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
@@ -91,7 +92,7 @@
 						<i class="fa fa-star" aria-hidden="true"></i>
 					</li>
 
-				<li>SQL and Data Design
+				<li>SQL & Data Design
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -99,7 +100,7 @@
 					<i class="fa fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>Object Oriented Programming
+				<li>OOP
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -107,12 +108,28 @@
 					<i class="fa fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>HTML, CSS, Bootstrap, and UI/UX Design
+				<li>HTML, & CSS
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+				</li>
+
+				<li>Bootstrap
 					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+				</li>
+
+				<li>UI/UX Design
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
 					<li>JavaScript
@@ -147,7 +164,7 @@
 						<i class="far fa-star" aria-hidden="true"></i>
 					</li>
 
-				<li>Angular and Node.js
+				<li>Angular & Node.js
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
