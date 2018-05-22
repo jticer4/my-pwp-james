@@ -199,32 +199,32 @@
 			<h3 id="contact">Contact Me</h3>
 			<hr>
 			<form>
-				<div class="text-left">
+				<div class="text-center">
 					<input type="text" placeholder="Name:">
 				</div>
 
-				<div class="text-left">
+				<div class="text-center">
 					<input type="email" placeholder="Email:">
 				</div>
 
-				<div class="text-left">
+				<div class="text-center">
 					<input type="tel" placeholder="Phone Number:">
 				</div>
 
-				<div class="text-left">
-					<textarea name="message" cols="30" rows="10" placeholder="Message:"></textarea>
+				<div class="text-center">
+					<textarea name="message" cols="20" rows="10" placeholder="Message:"></textarea>
 				</div>
 
 				<hr>
 
-				<button type="button" class="btn btn-primary">Submit</button>
+				<button type="button" class="btn btn-primary mb-4">Submit</button>
 
 			</form>
 		</div>
 
 
 		<!-- Footer -->
-		<footer class="page-footer font-small cyan darken-3 mt-1">
+		<footer class="page-footer font-small cyan darken-3 mt-1 bg-dark">
 
 			<!-- Footer Links -->
 			<div class="container">
@@ -238,19 +238,19 @@
 
 							<!--  GitHub-->
 							<a>
-								<a class="fab fa-github white-text mr-md-5 mr-3 fa-2x"  href="https://github.com/jticer4" target="_blank"></a>
+								<a class="fab fa-github text-white mr-md-5 mr-3 fa-2x"  href="https://github.com/jticer4" target="_blank"></a>
 							</a>
 							<!-- LinkedIn -->
 							<a class="tw-ic">
-								<a class="fab fa-linkedin white-text mr-md-5 mr-3 fa-2x" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
+								<a class="fab fa-linkedin text-white mr-md-5 mr-3 fa-2x" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
 							</a>
 							<!-- Twitter -->
 							<a class="gplus-ic">
-								<a class="fab fa-twitter white-text mr-md-5 mr-3 fa-2x" href="https://twitter.com/?lang=en" target="_blank"> </a>
+								<a class="fab fa-twitter text-white mr-md-5 mr-3 fa-2x" href="https://twitter.com/?lang=en" target="_blank"> </a>
 							</a>
 							<!-- Email -->
 							<a class="li-ic">
-								<a class="fas fa-envelope white-text mr-md-5 mr-3 fa-2x" href="mailto:jticer4@gmail.com"> </a>
+								<a class="fas fa-envelope text-white mr-md-5 mr-3 fa-2x" href="mailto:jticer4@gmail.com"> </a>
 							</a>
 						</div>
 					</div>
@@ -263,7 +263,7 @@
 			<!-- Footer Links -->
 
 			<!-- Copyright -->
-			<div class="footer-copyright text-center">© 2018 Copyright:
+			<div class="footer-copyright text-center text-light">© 2018 Copyright:
 				<a> James E Ticer IV</a>
 			</div>
 			<!-- Copyright -->
