@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+		<!-- linked the css -->
 		<link rel="stylesheet" href="style.css">
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
@@ -21,11 +22,14 @@
 	</head>
 	<body>
 		<div>
+			<!-- navbar -->
 			<nav class="navbar">
+				<!-- dropdown button -->
 				<div class="dropdown">
 					<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						<i class="fas fa-bars"></i>
 					</button>
+					<!-- content within the drop down button -->
 					<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 						<a class="dropdown-item" href="#profile">Profile</a>
 						<a class="dropdown-item" href="#edumacations">Edumacations</a>
@@ -34,6 +38,7 @@
 						<a class="dropdown-item" href="#contact">Contact Me</a>
 					</div>
 				</div>
+				<!-- social media links -->
 				<span class="inline-block ml-auto">
 					<a class="fab fa-github" href="https://github.com/jticer4" target="_blank"></a>
 					<a class="fab fa-linkedin" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
@@ -44,18 +49,23 @@
 		</div>
 
 		<div class="pb-2">
+			<!-- my title section -->
 			<h3 class="text-center mt-5 pt-5">James Ticer</h3>
 			<hr>
 			<h5 class="text-center mb-5 pb-5">Software Developer</h5>
 		</div>
+		<!-- my profile section -->
 		<div class="container-fluid text-center mt-5 pt-5">
 			<h3 class="mt-5 pt-5" id="profile">Profile</h3>
 			<hr>
+			<!-- about me section -->
 			<h5><strong>About Me</strong></h5>
 			<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
 
+			<!-- picture of me -->
 			<img class="rounded-circle" src="pic-of-me.jpg" alt="picture of me">
 
+			<!-- profile details section -->
 			<h5><strong>Details</strong></h5>
 			<p><strong>Name:</strong></p>
 			<p>James E Ticer IV</p>
@@ -64,21 +74,21 @@
 			<p><strong>Location:</strong></p>
 			<p>Albuquerque, NM</p>
 		</div>
-
+		<!-- edumacations section -->
 		<div class="container-fluid text-center">
 			<h3 id="edumacations">Edumacations</h3>
 			<hr>
 			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding Bootcamp</p>
 			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
 		</div>
-
+		<!-- experience and projects section -->
 		<div class="container-fluid text-center">
 			<h3 id="experience">Experience and Projects</h3>
 			<hr>
 			<p><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
 			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
 		</div>
-
+		<!-- languages and technologies section -->
 		<div class="container-fluid text-center">
 			<h3 id="languages">Languages and Technologies</h3>
 			<hr>
@@ -181,7 +191,7 @@
 					</li>
 			</ul>
 		</div>
-
+		<!-- contact me form -->
 		<div class="container-fluid text-center">
 			<h3 id="contact">Contact Me</h3>
 			<hr>
@@ -198,7 +208,6 @@
 					<input type="tel" placeholder="Phone Number:">
 				</div>
 
-					<!-- TODO MAKE THIS TEXT AREA RESPONSIVE -->
 				<div class="text-left">
 					<textarea name="message" cols="30" rows="10" placeholder="Message:"></textarea>
 				</div>
