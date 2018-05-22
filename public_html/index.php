@@ -27,11 +27,11 @@
 						<i class="fas fa-bars"></i>
 					</button>
 					<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-						<a class="dropdown-item" href="#">Profile</a>
-						<a class="dropdown-item" href="#">Edumacations</a>
-						<a class="dropdown-item" href="#">Experience and Projects</a>
-						<a class="dropdown-item" href="#">Languages and Technologies</a>
-						<a class="dropdown-item" href="#">Contact Me</a>
+						<a class="dropdown-item" href="#profile">Profile</a>
+						<a class="dropdown-item" href="#edumacations">Edumacations</a>
+						<a class="dropdown-item" href="#experience">Experience and Projects</a>
+						<a class="dropdown-item" href="#languages">Languages and Technologies</a>
+						<a class="dropdown-item" href="#contact">Contact Me</a>
 					</div>
 				</div>
 				<span class="inline-block ml-auto">
@@ -49,7 +49,7 @@
 			<h5 class="text-center mb-5 pb-5">Software Developer</h5>
 		</div>
 		<div class="container-fluid text-center mt-5 pt-5">
-			<h3 class="mt-5 pt-5">Profile</h3>
+			<h3 class="mt-5 pt-5" id="profile">Profile</h3>
 			<hr>
 			<h5><strong>About Me</strong></h5>
 			<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
@@ -66,21 +66,21 @@
 		</div>
 
 		<div class="container-fluid text-center">
-			<h3>Edumacations</h3>
+			<h3 id="edumacations">Edumacations</h3>
 			<hr>
 			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding Bootcamp</p>
 			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
 		</div>
 
 		<div class="container-fluid text-center">
-			<h3>Experience and Projects</h3>
+			<h3 id="experience">Experience and Projects</h3>
 			<hr>
 			<p><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
 			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
 		</div>
 
 		<div class="container-fluid text-center">
-			<h3>Languages and Technologies</h3>
+			<h3 id="languages">Languages and Technologies</h3>
 			<hr>
 			<ul class="text-left">
 
@@ -183,7 +183,7 @@
 		</div>
 
 		<div class="container-fluid text-center">
-			<h3>Contact Me</h3>
+			<h3 id="contact">Contact Me</h3>
 			<hr>
 			<form>
 				<div class="text-left">
