@@ -64,7 +64,7 @@
 			<div class="row">
 				<div class="col-md-4 text-right">
 			<!-- about me section -->
-			<h5><strong>About Me</strong></h5>
+					<h5>About Me</h5>
 			<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
 				</div>
 				<div class="col-md-4">
@@ -73,7 +73,7 @@
 				</div>
 			<!-- profile details section -->
 				<div class="col-md-4 text-left">
-			<h5><strong>Details</strong></h5>
+			<h5>Details</h5>
 			<p><strong>Name:</strong></p>
 			<p>James E Ticer IV</p>
 			<p><strong>Age:</strong></p>
@@ -239,7 +239,7 @@
 				<div class="row">
 
 					<!-- Grid column -->
-					<div class="col-md-12 py-5">
+					<div class="col-md-12 py-4">
 						<div class="text-center">
 
 							<!--  GitHub-->
@@ -269,7 +269,7 @@
 			<!-- Footer Links -->
 
 			<!-- Copyright -->
-			<div class="footer-copyright text-center text-light pb-3">© 2018 Copyright:
+			<div class="footer-copyright text-center text-light py-3">© 2018 Copyright:
 				<a> James E Ticer IV</a>
 			</div>
 			<!-- Copyright -->
