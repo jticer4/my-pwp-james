@@ -58,8 +58,8 @@
 		<i class="fas fa-caret-down mt-5 pt-5 mb-3 pb-3"></i>
 		</div>
 		<!-- my profile section -->
-		<h3 class="text-center" id="profile">Profile</h3>
-		<hr>
+		<h3 class="text-center mt-5" id="profile">Profile</h3>
+		<hr class=" pb-3">
 		<div class="container-fluid text-center">
 			<div class="row">
 				<div class="col-md-4 text-right">
@@ -85,22 +85,22 @@
 		</div>
 		<!-- edumacations section -->
 		<div class="container-fluid text-center">
-			<h3 id="edumacations">Edumacations</h3>
-			<hr>
+			<h3 class="mt-5" id="edumacations">Edumacations</h3>
+			<hr class="pb-3">
 			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding Bootcamp</p>
 			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
 		</div>
 		<!-- experience and projects section -->
 		<div class="container-fluid text-center">
-			<h3 id="experience">Experience and Projects</h3>
-			<hr>
+			<h3 class="mt-5" id="experience">Experience and Projects</h3>
+			<hr class="pb-3">
 			<p><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
 			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
 		</div>
 		<!-- languages and technologies section -->
 		<div class="container-fluid text-center">
-			<h3 id="languages">Languages and Technologies</h3>
-			<hr>
+			<h3 class="mt-5" id="languages">Languages and Technologies</h3>
+			<hr class="pb-3">
 			<ul class="text-left">
 
 					<li>PHP
@@ -202,8 +202,8 @@
 		</div>
 		<!-- contact me form -->
 		<div class="container-fluid text-center">
-			<h3 id="contact">Contact Me</h3>
-			<hr>
+			<h3 class="mt-5" id="contact">Contact Me</h3>
+			<hr class="pb-3">
 			<form>
 				<div class="text-center">
 					<input type="text" placeholder="Name:">
