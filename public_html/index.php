@@ -205,19 +205,19 @@
 			<h3 class="mt-5" id="contact">Contact Me</h3>
 			<hr class="pb-3">
 			<form>
-				<div class="text-center">
+				<div class="text-center py-1">
 					<input type="text" placeholder="Name:">
 				</div>
 
-				<div class="text-center">
+				<div class="text-center py-1">
 					<input type="email" placeholder="Email:">
 				</div>
 
-				<div class="text-center">
+				<div class="text-center py-1">
 					<input type="tel" placeholder="Phone Number:">
 				</div>
 
-				<div class="text-center">
+				<div class="text-center py-1">
 					<textarea name="message" cols="30" rows="10" placeholder="Message:"></textarea>
 				</div>
 
@@ -239,7 +239,7 @@
 				<div class="row">
 
 					<!-- Grid column -->
-					<div class="col-md-12 py-4">
+					<div class="col-md-12 py-3">
 						<div class="text-center">
 
 							<!--  GitHub-->
@@ -267,12 +267,6 @@
 
 			</div>
 			<!-- Footer Links -->
-
-			<!-- Copyright -->
-			<div class="footer-copyright text-center text-light py-3">© 2018 Copyright:
-				<a> James E Ticer IV</a>
-			</div>
-			<!-- Copyright -->
 
 		</footer>
 		<!-- Footer -->
