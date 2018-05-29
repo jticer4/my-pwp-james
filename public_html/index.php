@@ -21,8 +21,10 @@
 		<title>James Ticer PWP</title>
 	</head>
 	<body>
-		<div>
+
 			<!-- navbar -->
+		<div id="background">
+			<div>
 			<nav class="navbar">
 				<!-- dropdown button -->
 				<div class="dropdown">
@@ -57,6 +59,7 @@
 		<div class="text-center mt-5 pt-5">
 		<i class="fas fa-caret-down mt-5 pt-5 mb-3 pb-3"></i>
 		</div>
+	</div>
 		<!-- my profile section -->
 		<h3 class="text-center mt-5" id="profile">Profile</h3>
 		<hr class=" pb-3">
