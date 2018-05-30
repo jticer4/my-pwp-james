@@ -223,16 +223,16 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="form-group">
-								<label for="form_name">First Name *</label>
-								<input id="form_name" type="text" name="firstName" class="form-control" placeholder="Please enter your first name *" required="required" data-error="First name is required.">
-								<div class="help-block with-errors"></div>
+								<label for="form_firstName">First Name *</label>
+								<input id="form_firstName" type="text" name="firstName" class="form-control" placeholder="Please enter your first name *" required="required" data-error="First name is required.">
+
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="form-group">
-								<label for="form_lastname">Last Name *</label>
-								<input id="form_lastname" type="text" name="lastName" class="form-control" placeholder="Please enter your last name *" required="required" data-error="Last name is required.">
-								<div class="help-block with-errors"></div>
+								<label for="form_lastName">Last Name *</label>
+								<input id="form_lastName" type="text" name="lastName" class="form-control" placeholder="Please enter your last name *" required="required" data-error="Last name is required.">
+
 							</div>
 						</div>
 					</div>
@@ -241,14 +241,14 @@
 							<div class="form-group">
 								<label for="form_email">Email *</label>
 								<input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email *" required="required" data-error="Valid email is required.">
-								<div class="help-block with-errors"></div>
+
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="form-group">
 								<label for="form_phone">Phone</label>
 								<input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your phone">
-								<div class="help-block with-errors"></div>
+
 							</div>
 						</div>
 					</div>
