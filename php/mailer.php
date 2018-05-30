@@ -9,7 +9,7 @@
  **/
 
 // require all composer dependencies
-require_once(dirname(__DIR__, 2) . "/vendor/autoload.php");
+require_once(dirname(__DIR__, 1) . "/vendor/autoload.php");
 
 // require mail-config.php
 require_once("mail-config.php");
@@ -43,7 +43,7 @@ try {
 	 * Attach the sender to the message.
 	 * This takes the form of an associative array where $email is the key for the real name.
 	 **/
-	$swiftMessage->setFrom([$email => ($firstName . $lastName)]);
+	$swiftMessage->setFrom([$email => $firstName . " " . $lastName]);
 
 	/**
 	 * Attach the recipients to the message.
@@ -66,8 +66,8 @@ try {
 	 * this lets users who aren't viewing HTML content in Emails still access your
 	 * links.
 	 **/
-	$swiftMessage->setBody(($message . $phone), "text/html");
-	$swiftMessage->addPart(html_entity_decode($message . $phone), "text/plain");
+	$swiftMessage->setBody($message . " " . $phone, "text/html");
+	$swiftMessage->addPart(html_entity_decode($message . " " . $phone), "text/plain");
 
 	/**
 	 * Send the Email via SMTP. The SMTP server here is configured to relay
