@@ -14,7 +14,7 @@ $(document).ready(function(){
 	 **/
 
 	/* begin validate function here */
-	$("#my-contact-form").validate({
+	$("#contact-form").validate({
 
 		// setup handling of form errors
 		debug: true,
@@ -25,12 +25,18 @@ $(document).ready(function(){
 		// rules here define what is good or bad input
 		// each rule starts with the form input element's NAME attribute
 		rules: {
-			name: {
+			firstName: {
+				required: true
+			},
+			lastName: {
 				required: true
 			},
 			email: {
 				email: true,
 				required: true
+			},
+			phone: {
+				required: false
 			},
 			message: {
 				required: true,
@@ -40,8 +46,11 @@ $(document).ready(function(){
 
 		// error messages to display to the end user when rules above don't pass
 		messages: {
-			name: {
-				required: "Please enter your name."
+			firstName: {
+				required: "U no like first name?"
+			},
+			lastName: {
+				required: "Y u have no last name?"
 			},
 			email: {
 				email: "Please enter a valid email address.",
@@ -55,9 +64,9 @@ $(document).ready(function(){
 
 		// AJAX submit the form data to back end if rules pass
 		submitHandler: function(form) {
-			$("#my-contact-form").ajaxSubmit({
+			$("#contact-form").ajaxSubmit({
 				type: "POST",
-				url: $("#my-contact-form").attr("action"),
+				url: $("#contact-form").attr("action"),
 
 				success: function(ajaxOutput) {
 					// clear the output area's formatting
