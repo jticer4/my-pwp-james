@@ -260,6 +260,7 @@
 							</div>
 						</div>
 						<div class="col-md-12">
+							<div class="g-recaptcha" data-sitekey="6LejZlwUAAAAAAIlsGpxlvjAUa-2ku404Mx4XCgc"></div>
 							<input type="submit" class="btn btn-success btn-send" value="Send message">
 						</div>
 						<div id="output-area"></div>
