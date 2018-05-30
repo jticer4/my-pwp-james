@@ -219,7 +219,7 @@
 			<hr class="pb-3">
 
 
-			<form id="contact-form" action="../php/email.php" method="post">
+			<form id="contact-form" action="../php/mailer.php" method="post">
 					<div class="row">
 						<div class="col-md-6">
 							<div class="form-group">
