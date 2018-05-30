@@ -257,14 +257,13 @@
 							<div class="form-group">
 								<label for="form_message">Message *</label>
 								<textarea id="form_message" name="message" class="form-control" placeholder="Your Message Here *" rows="4" required="required" data-error="Please include a message."></textarea>
-								<div class="help-block with-errors"></div>
 							</div>
 						</div>
 						<div class="col-md-12">
 							<input type="submit" class="btn btn-success btn-send" value="Send message">
 						</div>
+						<div id="output-area"></div>
 					</div>
-
 			</form>
 		</div>
 
