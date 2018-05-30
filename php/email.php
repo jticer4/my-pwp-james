@@ -4,7 +4,9 @@
  * while this is convenient, this may load too much if your composer configuration grows to many classes
  * if this is a concern, load "/vendor/swiftmailer/autoload.php" instead to load just SwiftMailer
  **/
-require_once(dirname(dirname(dirname(dirname(__DIR__)))) . "/vendor/autoload.php");
+require_once(dirname(__DIR__, 1) . "/vendor/autoload.php");
+
+
 
 try {
 	// sanitize the inputs from the form: first name, last name, email, phone, and message
@@ -17,11 +19,13 @@ try {
 	$subject = "Message from your Personal Website";
 
 	// create Swift message
-	$swiftMessage = Swift_Message::newInstance();
+	$swiftMessage = new Swift_Message();
+
 
 	// attach the sender to the message
 	// this takes the form of an associative array where the Email is the key for the real name
-	$swiftMessage->setFrom([$email => ($firstName . $lastName)]);
+	$swiftMessage->setFrom([$email => ($firstName . " " . $lastName)]);
+
 
 	/**
 	 * attach the recipients to the message
@@ -50,8 +54,10 @@ try {
 	 * SwiftMailer supports many different transport methods; SMTP was chosen because it's the most compatible and has the best error handling
 	 * @see http://swiftmailer.org/docs/sending.html Sending Messages - Documentation - SwitftMailer
 	 **/
-	$smtp = Swift_SmtpTransport::newInstance("localhost", 25);
-	$mailer = Swift_Mailer::newInstance($smtp);
+	//create the transport
+	$transport = (new Swift_SmtpTransport('localhost', 25));
+	// Create the Mailer using your created Transport
+	$mailer = new Swift_Mailer($transport);
 	$numSent = $mailer->send($swiftMessage, $failedRecipients);
 
 	/**
@@ -62,7 +68,6 @@ try {
 		// the $failedRecipients parameter passed in the send() method now contains contains an array of the Emails that failed
 		throw(new RuntimeException("unable to send email"));
 	}
-
 	// report a successful send
 	echo "<div class=\"alert alert-success\" role=\"alert\">Email successfully sent.</div>";
 } catch(Exception $exception) {

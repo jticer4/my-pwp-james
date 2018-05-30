@@ -209,19 +209,19 @@
 			<hr class="pb-3">
 
 
-			<form id="contact-form" action="email.php">
+			<form id="contact-form" action="../php/email.php" method="post">
 					<div class="row">
 						<div class="col-md-6">
 							<div class="form-group">
 								<label for="form_name">First Name *</label>
-								<input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your first name *" required="required" data-error="First name is required.">
+								<input id="form_name" type="text" name="firstName" class="form-control" placeholder="Please enter your first name *" required="required" data-error="First name is required.">
 								<div class="help-block with-errors"></div>
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="form-group">
 								<label for="form_lastname">Last Name *</label>
-								<input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Please enter your last name *" required="required" data-error="Last name is required.">
+								<input id="form_lastname" type="text" name="lastName" class="form-control" placeholder="Please enter your last name *" required="required" data-error="Last name is required.">
 								<div class="help-block with-errors"></div>
 							</div>
 						</div>
