@@ -224,14 +224,14 @@
 						<div class="col-md-6">
 							<div class="form-group">
 								<label for="form_firstName">First Name *</label>
-								<input id="form_firstName" type="text" name="firstName" class="form-control" placeholder="Please enter your first name *" required="required" data-error="First name is required.">
+								<input id="form_firstName" type="text" name="firstName" class="form-control" placeholder="Please enter your first name *">
 
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="form-group">
 								<label for="form_lastName">Last Name *</label>
-								<input id="form_lastName" type="text" name="lastName" class="form-control" placeholder="Please enter your last name *" required="required" data-error="Last name is required.">
+								<input id="form_lastName" type="text" name="lastName" class="form-control" placeholder="Please enter your last name *">
 
 							</div>
 						</div>
@@ -240,7 +240,7 @@
 						<div class="col-md-6">
 							<div class="form-group">
 								<label for="form_email">Email *</label>
-								<input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email *" required="required" data-error="Valid email is required.">
+								<input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email *">
 
 							</div>
 						</div>
@@ -256,7 +256,7 @@
 						<div class="col-md-12">
 							<div class="form-group">
 								<label for="form_message">Message *</label>
-								<textarea id="form_message" name="message" class="form-control" placeholder="Your Message Here *" rows="4" required="required" data-error="Please include a message."></textarea>
+								<textarea id="form_message" name="message" class="form-control" placeholder="Your Message Here *" rows="4"></textarea>
 							</div>
 						</div>
 						<div class="col-md-12">
