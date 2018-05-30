@@ -207,11 +207,9 @@
 		<div class="container-fluid text-center">
 			<h3 class="mt-5" id="contact">Contact Me</h3>
 			<hr class="pb-3">
-			<form id="contact-form" method="post" action="placeholder.php" role="form">
 
 
-				<div class="controls">
-
+			<form id="contact-form" action="email.php">
 					<div class="row">
 						<div class="col-md-6">
 							<div class="form-group">
@@ -256,8 +254,6 @@
 							<input type="submit" class="btn btn-success btn-send" value="Send message">
 						</div>
 					</div>
-
-				</div>
 
 			</form>
 		</div>
