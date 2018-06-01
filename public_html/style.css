@@ -4,27 +4,27 @@
 
 #git {
 	font-size: 1.5rem;
-	color: black;
+	color: aliceblue;
 }
 
 #linkedin {
 	font-size: 1.5rem;
-	color: black;
+	color: aliceblue;
 }
 
 #twitter {
 	font-size: 1.5rem;
-	color: black;
+	color: aliceblue;
 }
 
 #mail {
 	font-size: 1.5rem;
-	color: black;
+	color: aliceblue;
 }
 
 #title-hr {
 	width: 30%;
-	background-color: black;
+	background-color: lightgray;
 	height: 1px;
 	border: 0;
 }
@@ -33,6 +33,14 @@
 	font-size: 1.5rem;
 }
 
+.fa-caret-down {
+	font-size: 2rem;
+}
+
 #background {
 	background-image: url("scott-webb-199458-unsplash.jpg");
+}
+
+.title {
+	color: aliceblue;
 }

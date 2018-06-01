@@ -62,12 +62,12 @@
 
 		<div class="pb-2">
 			<!-- my title section -->
-			<h3 class="text-center mt-5 pt-5">James Ticer</h3>
-			<hr id="title-hr">
-			<h5 class="text-center mb-5 pb-5">Software Developer</h5>
+			<h3 class="text-center mt-5 pt-5 title">James Ticer</h3>
+			<hr id="title-hr" class="title">
+			<h5 class="text-center mb-5 pb-5 title">Software Developer</h5>
 		</div>
-		<div class="text-center mt-5 pt-5">
-		<i class="fas fa-caret-down mt-5 pt-5 mb-3 pb-3"></i>
+		<div class="text-center mt-4 pt-5">
+		<i class="fas fa-caret-down mt-5 pt-5 mb-3 pb-3 title"></i>
 		</div>
 	</div>
 		<!-- my profile section -->
