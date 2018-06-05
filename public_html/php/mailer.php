@@ -1,9 +1,12 @@
 <?php
+
 /**
  * mailer.php
  *
  * Handles secure mail transport using the Swiftmailer
  * library with Google reCAPTCHA integration.
+ *
+ * @author Rochelle Lewis <rlewis37@cnm.edu>
  **/
 
 // require all composer dependencies

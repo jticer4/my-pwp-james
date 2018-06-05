@@ -6,6 +6,8 @@ $(document).ready(function(){
 	 * This function provides front-end validation for your form.
 	 * If all tests set up here pass, the form data is AJAX submitted
 	 * to the mailer.php file.
+	 *
+	 * @author Rochelle Lewis <rlewis37@cnm.edu>
 	 **/
 
 	/* begin validate function here */
