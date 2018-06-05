@@ -92,12 +92,9 @@
 			<!-- profile details section -->
 				<div class="col-md-4 text-left">
 					<h5 class="font-weight-bold">Details</h5>
-					<p><strong>Name:</strong></p>
-					<p>James E Ticer IV</p>
-					<p><strong>Age:</strong></p>
-					<p>25</p>
-					<p><strong>Location:</strong></p>
-					<p>Albuquerque, NM</p>
+					<p><strong>Name:</strong><br>James E Ticer IV</p>
+					<p><strong>Age:</strong><br>25</p>
+					<p><strong>Location:</strong><br>Albuquerque, NM</p>
 				</div>
 			</div>
 		</div>
