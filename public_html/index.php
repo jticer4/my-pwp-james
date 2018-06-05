@@ -54,7 +54,7 @@
 					<span class="inline-block ml-auto">
 						<a id="git" class="fab fa-github" href="https://github.com/jticer4" target="_blank"></a>
 						<a id="linkedin" class="fab fa-linkedin" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
-						<a id="twitter" class="fab fa-twitter" href="https://twitter.com/?lang=en" target="_blank"></a>
+						<a id="twitter" class="fab fa-twitter" href="https://twitter.com/jticer4" target="_blank"></a>
 						<a id="mail" class="fas fa-envelope" href="mailto:jticer4@gmail.com"></a>
 					</span>
 				</nav>
@@ -286,19 +286,19 @@
 						<div class="text-center">
 							<!--  GitHub-->
 							<a>
-								<a class="fab fa-github text-white mr-md-5 mr-3 fa-2x"  href="https://github.com/jticer4" target="_blank"></a>
+								<a class="fab fa-github mr-md-5 mr-3 fa-2x"  href="https://github.com/jticer4" target="_blank"></a>
 							</a>
 							<!-- LinkedIn -->
 							<a class="tw-ic">
-								<a class="fab fa-linkedin text-white mr-md-5 mr-3 fa-2x" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
+								<a class="fab fa-linkedin mr-md-5 mr-3 fa-2x" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
 							</a>
 							<!-- Twitter -->
 							<a class="gplus-ic">
-								<a class="fab fa-twitter text-white mr-md-5 mr-3 fa-2x" href="https://twitter.com/?lang=en" target="_blank"> </a>
+								<a class="fab fa-twitter mr-md-5 mr-3 fa-2x" href="https://twitter.com/jticer4" target="_blank"> </a>
 							</a>
 							<!-- Email -->
 							<a class="li-ic">
-								<a class="fas fa-envelope text-white mr-md-5 mr-3 fa-2x" href="mailto:jticer4@gmail.com"> </a>
+								<a class="fas fa-envelope mr-md-5 mr-3 fa-2x" href="mailto:jticer4@gmail.com"> </a>
 							</a>
 						</div>
 					</div>

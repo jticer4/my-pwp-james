@@ -2,22 +2,22 @@
 	color: gold;
 }
 
-#git {
+.fa-github {
 	font-size: 1.5rem;
 	color: aliceblue;
 }
 
-#linkedin {
+.fa-linkedin {
 	font-size: 1.5rem;
 	color: aliceblue;
 }
 
-#twitter {
+.fa-twitter {
 	font-size: 1.5rem;
 	color: aliceblue;
 }
 
-#mail {
+.fa-envelope {
 	font-size: 1.5rem;
 	color: aliceblue;
 }
