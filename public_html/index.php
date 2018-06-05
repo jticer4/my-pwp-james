@@ -62,7 +62,7 @@
 
 		<div class="pb-5">
 			<!-- my title section -->
-			<div class="pb-5">
+			<div class="pb-5 pt-4">
 				<h3 class="text-center mt-5 pt-5 title">James Ticer</h3>
 				<hr id="title-hr" class="title">
 				<h5 class="text-center mb-5 pb-5 title">Software Developer</h5>
