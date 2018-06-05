@@ -38,9 +38,7 @@
 }
 
 #background {
-	background-image: url("scott-webb-199458-unsplash.jpg");
+	background: url("scott-webb-199458-unsplash.jpg") no-repeat center center;
+	background-size: cover;
 }
 
-.title {
-	color: aliceblue;
-}

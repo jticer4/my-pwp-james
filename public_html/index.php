@@ -22,7 +22,7 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
-		<!-- Your JavaScript Form Validator -->
+		<!-- JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
 
 		<!-- Google reCAPTCHA -->
@@ -35,94 +35,104 @@
 			<!-- navbar -->
 		<div id="background">
 			<div>
-			<nav class="navbar">
-				<!-- dropdown button -->
-				<div class="dropdown">
-					<button class="btn btn-light dropdown" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						<i class="fas fa-bars"></i>
-					</button>
-					<!-- content within the drop down button -->
-					<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-						<a class="dropdown-item" href="#profile">Profile</a>
-						<a class="dropdown-item" href="#edumacations">Edumacations</a>
-						<a class="dropdown-item" href="#experience">Experience and Projects</a>
-						<a class="dropdown-item" href="#languages">Languages and Technologies</a>
-						<a class="dropdown-item" href="#contact">Contact Me</a>
+				<nav class="navbar">
+					<!-- dropdown button -->
+					<div class="dropdown">
+						<button class="btn btn-light dropdown" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<i class="fas fa-bars"></i>
+						</button>
+						<!-- content within the drop down button -->
+						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+							<a class="dropdown-item" href="#profile">Profile</a>
+							<a class="dropdown-item" href="#edumacations">Edumacations</a>
+							<a class="dropdown-item" href="#experience">Experience and Projects</a>
+							<a class="dropdown-item" href="#languages">Languages and Technologies</a>
+							<a class="dropdown-item" href="#contact">Contact Me</a>
+						</div>
 					</div>
-				</div>
-				<!-- social media links -->
-				<span class="inline-block ml-auto">
-					<a id="git" class="fab fa-github" href="https://github.com/jticer4" target="_blank"></a>
-					<a id="linkedin" class="fab fa-linkedin" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
-					<a id="twitter" class="fab fa-twitter" href="https://twitter.com/?lang=en" target="_blank"></a>
-					<a id="mail" class="fas fa-envelope" href="mailto:jticer4@gmail.com"></a>
+					<!-- social media links -->
+					<span class="inline-block ml-auto">
+						<a id="git" class="fab fa-github" href="https://github.com/jticer4" target="_blank"></a>
+						<a id="linkedin" class="fab fa-linkedin" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
+						<a id="twitter" class="fab fa-twitter" href="https://twitter.com/?lang=en" target="_blank"></a>
+						<a id="mail" class="fas fa-envelope" href="mailto:jticer4@gmail.com"></a>
 					</span>
-			</nav>
-		</div>
+				</nav>
+			</div>
 
-		<div class="pb-2">
+		<div class="pb-5">
 			<!-- my title section -->
-			<h3 class="text-center mt-5 pt-5 title">James Ticer</h3>
-			<hr id="title-hr" class="title">
-			<h5 class="text-center mb-5 pb-5 title">Software Developer</h5>
+			<div class="pb-5">
+				<h3 class="text-center mt-5 pt-5 title">James Ticer</h3>
+				<hr id="title-hr" class="title">
+				<h5 class="text-center mb-5 pb-5 title">Software Developer</h5>
+				<div class="text-center mt-4 pt-5">
+					<i class="fas fa-caret-down mt-5 pt-5 mb-5 pb-5 title"></i>
+				</div>
+			</div>
 		</div>
-		<div class="text-center mt-4 pt-5">
-		<i class="fas fa-caret-down mt-5 pt-5 mb-3 pb-3 title"></i>
 		</div>
-	</div>
 		<!-- my profile section -->
 		<h3 class="text-center mt-5" id="profile">Profile</h3>
-		<hr class=" pb-3">
+		<!-- horizontal rule under profile -->
+		<hr class="pb-3">
 		<div class="container-fluid text-center">
+			<!-- row containing my profile section -->
 			<div class="row">
 				<div class="col-md-4 text-right">
 			<!-- about me section -->
 					<h5>About Me</h5>
-			<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
+					<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
 				</div>
+
 				<div class="col-md-4">
 			<!-- picture of me -->
-			<img class="rounded-circle" src="pic-of-me.jpg" alt="picture of me">
+					<img class="rounded-circle" src="pic-of-me.jpg" alt="picture of me">
 				</div>
 			<!-- profile details section -->
 				<div class="col-md-4 text-left">
-			<h5>Details</h5>
-			<p><strong>Name:</strong></p>
-			<p>James E Ticer IV</p>
-			<p><strong>Age:</strong></p>
-			<p>25</p>
-			<p><strong>Location:</strong></p>
-			<p>Albuquerque, NM</p>
-					</div>
+					<h5>Details</h5>
+					<p><strong>Name:</strong></p>
+					<p>James E Ticer IV</p>
+					<p><strong>Age:</strong></p>
+					<p>25</p>
+					<p><strong>Location:</strong></p>
+					<p>Albuquerque, NM</p>
+				</div>
 			</div>
 		</div>
 		<!-- edumacations section -->
 		<div class="container-fluid text-center">
 			<h3 class="mt-5" id="edumacations">Edumacations</h3>
+			<!-- my horizontal rule after the edumacations title -->
 			<hr class="pb-3">
+			<!-- my edumacational credentials are listed here -->
 			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding Bootcamp</p>
 			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
 		</div>
 		<!-- experience and projects section -->
 		<div class="container-fluid text-center">
 			<h3 class="mt-5" id="experience">Experience and Projects</h3>
+			<!-- my horizontal rule after my experience and projects section -->
 			<hr class="pb-3">
+			<!-- my actual experience goes here -->
 			<p><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
 			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
 		</div>
 		<!-- languages and technologies section -->
 		<div class="container-fluid text-center">
 			<h3 class="mt-5" id="languages">Languages and Technologies</h3>
+			<!-- my horizontal rule under languages and technologies -->
 			<hr class="pb-3">
 			<ul class="text-left">
 
-					<li>PHP
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-					</li>
+				<li>PHP
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+				</li>
 
 				<li>SQL & Data Design
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -164,37 +174,37 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-					<li>JavaScript
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="far fa-star" aria-hidden="true"></i>
-					</li>
+				<li>JavaScript
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+				</li>
 
-					<li>Unit Testing
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="far fa-star" aria-hidden="true"></i>
-					</li>
+				<li>Unit Testing
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+				</li>
 
-					<li>REST APIs
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="far fa-star" aria-hidden="true"></i>
-					</li>
+				<li>REST APIs
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+				</li>
 
-					<li>Security
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="far fa-star" aria-hidden="true"></i>
-					</li>
+				<li>Security
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+				</li>
 
 				<li>Angular & Node.js
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -204,84 +214,79 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-					<li>Design Patterns
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
-						<i class="far fa-star" aria-hidden="true"></i>
-						<i class="far fa-star" aria-hidden="true"></i>
-					</li>
+				<li>Design Patterns
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="fa fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+					<i class="far fa-star" aria-hidden="true"></i>
+				</li>
 			</ul>
 		</div>
 		<!-- contact me form -->
 		<div class="container-fluid text-center">
 			<h3 class="mt-5" id="contact">Contact Me</h3>
+			<!-- the horizontal rule under my contact me title -->
 			<hr class="pb-3">
-
-
 			<form id="contact-form" action="php/mailer.php" method="post">
-					<div class="row">
-						<div class="col-md-6">
-							<div class="form-group">
-								<label for="form_firstName">First Name *</label>
-								<input id="form_firstName" type="text" name="firstName" class="form-control" placeholder="Please enter your first name *">
-
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="form-group">
-								<label for="form_lastName">Last Name *</label>
-								<input id="form_lastName" type="text" name="lastName" class="form-control" placeholder="Please enter your last name *">
-
-							</div>
+				<!-- new row -->
+				<div class="row">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label for="form_firstName">First Name *</label>
+							<input id="form_firstName" type="text" name="firstName" class="form-control" placeholder="Please enter your first name *">
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-md-6">
-							<div class="form-group">
-								<label for="form_email">Email *</label>
-								<input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email *">
-
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="form-group">
-								<label for="form_phone">Phone</label>
-								<input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your phone">
-
-							</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label for="form_lastName">Last Name *</label>
+							<input id="form_lastName" type="text" name="lastName" class="form-control" placeholder="Please enter your last name *">
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<div class="form-group">
-								<label for="form_message">Message *</label>
-								<textarea id="form_message" name="message" class="form-control" placeholder="Your Message Here *" rows="4"></textarea>
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="g-recaptcha" data-sitekey="6LejZlwUAAAAAAIlsGpxlvjAUa-2ku404Mx4XCgc"></div>
-							<input type="submit" class="btn btn-success btn-send" value="Send message">
+				</div>
+				<!-- new row -->
+				<div class="row">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label for="form_email">Email *</label>
+							<input id="form_email" type="email" name="email" class="form-control" placeholder="Please enter your email *">
 						</div>
 					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label for="form_phone">Phone</label>
+							<input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your phone">
+						</div>
+					</div>
+				</div>
+				<!-- new row -->
+				<div class="row">
+					<div class="col-md-12">
+						<div class="form-group">
+							<label for="form_message">Message *</label>
+							<textarea id="form_message" name="message" class="form-control" placeholder="Your Message Here *" rows="4"></textarea>
+						</div>
+					</div>
+					<div class="col-md-12">
+						<div class="g-recaptcha" data-sitekey="6LejZlwUAAAAAAIlsGpxlvjAUa-2ku404Mx4XCgc"></div>
+						<input type="submit" class="btn btn-success btn-send" value="Send message">
+					</div>
+				</div>
 			</form>
+			<!-- the form's output area -->
 			<div id="output-area"></div>
 		</div>
 
 
 		<!-- Footer -->
 		<footer class="page-footer font-small cyan darken-3 mt-4 bg-dark">
-
 			<!-- Footer Links -->
 			<div class="container">
-
 				<!-- Grid row-->
 				<div class="row">
-
 					<!-- Grid column -->
 					<div class="col-md-12 py-3">
 						<div class="text-center">
-
 							<!--  GitHub-->
 							<a>
 								<a class="fab fa-github text-white mr-md-5 mr-3 fa-2x"  href="https://github.com/jticer4" target="_blank"></a>
@@ -300,17 +305,9 @@
 							</a>
 						</div>
 					</div>
-					<!-- Grid column -->
-
 				</div>
-				<!-- Grid row-->
-
 			</div>
-			<!-- Footer Links -->
-
 		</footer>
-		<!-- Footer -->
-
 	</body>
 </html>
 
