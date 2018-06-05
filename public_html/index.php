@@ -81,7 +81,7 @@
 			<div class="row">
 				<div class="col-md-4 text-right">
 			<!-- about me section -->
-					<h5>About Me</h5>
+					<h5 class="font-weight-bold">About Me</h5>
 					<p>James Ticer is a UI/UX focused Full Stack Web Developer. He strives to make the internet a better place by crafting elegant and user friendly web applications.</p>
 				</div>
 
@@ -91,7 +91,7 @@
 				</div>
 			<!-- profile details section -->
 				<div class="col-md-4 text-left">
-					<h5>Details</h5>
+					<h5 class="font-weight-bold">Details</h5>
 					<p><strong>Name:</strong></p>
 					<p>James E Ticer IV</p>
 					<p><strong>Age:</strong></p>
@@ -107,7 +107,7 @@
 			<!-- my horizontal rule after the edumacations title -->
 			<hr class="pb-3">
 			<!-- my edumacational credentials are listed here -->
-			<p><strong>Full Stack Web Development</strong><br>Deep Dive Coding Bootcamp</p>
+			<p class="pb-3"><strong>Full Stack Web Development</strong><br>Deep Dive Coding Bootcamp</p>
 			<p><strong>Psychology with a minor in Business Administration</strong><br>University of New Mexico</p>
 		</div>
 		<!-- experience and projects section -->
@@ -116,7 +116,7 @@
 			<!-- my horizontal rule after my experience and projects section -->
 			<hr class="pb-3">
 			<!-- my actual experience goes here -->
-			<p><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
+			<p class="pb-3"><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
 			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
 		</div>
 		<!-- languages and technologies section -->
@@ -126,7 +126,7 @@
 			<hr class="pb-3">
 			<ul class="text-left">
 
-				<li>PHP
+				<li class="pb-1">PHP
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -134,7 +134,7 @@
 					<i class="fa fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>SQL & Data Design
+				<li class="pb-1">SQL & Data Design
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -142,7 +142,7 @@
 					<i class="fa fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>OOP
+				<li class="pb-1">OOP
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -150,7 +150,7 @@
 					<i class="fa fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>HTML, & CSS
+				<li class="pb-1">HTML, & CSS
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -158,7 +158,7 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>Bootstrap
+				<li class="pb-1">Bootstrap
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -166,7 +166,7 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>UI/UX Design
+				<li class="pb-1">UI/UX Design
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -174,7 +174,7 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>JavaScript
+				<li class="pb-1">JavaScript
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -182,7 +182,7 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>Unit Testing
+				<li class="pb-1">Unit Testing
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -190,7 +190,7 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>REST APIs
+				<li class="pb-1">REST APIs
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -198,7 +198,7 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>Security
+				<li class="pb-1">Security
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
@@ -206,7 +206,7 @@
 					<i class="far fa-star" aria-hidden="true"></i>
 				</li>
 
-				<li>Angular & Node.js
+				<li class="pb-1">Angular & Node.js
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
 					<i class="fa fa-star" aria-hidden="true"></i>
