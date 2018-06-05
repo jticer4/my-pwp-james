@@ -100,7 +100,7 @@
 		</div>
 		<!-- edumacations section -->
 		<div class="container-fluid text-center">
-			<h3 class="mt-5" id="edumacations">Edumacations</h3>
+			<h3 class="mt-5 pt-3" id="edumacations">Edumacations</h3>
 			<!-- my horizontal rule after the edumacations title -->
 			<hr class="pb-3">
 			<!-- my edumacational credentials are listed here -->
@@ -109,7 +109,7 @@
 		</div>
 		<!-- experience and projects section -->
 		<div class="container-fluid text-center">
-			<h3 class="mt-5" id="experience">Experience and Projects</h3>
+			<h3 class="mt-5 pt-3" id="experience">Experience and Projects</h3>
 			<!-- my horizontal rule after my experience and projects section -->
 			<hr class="pb-3">
 			<!-- my actual experience goes here -->
@@ -118,7 +118,7 @@
 		</div>
 		<!-- languages and technologies section -->
 		<div class="container-fluid text-center">
-			<h3 class="mt-5" id="languages">Languages and Technologies</h3>
+			<h3 class="mt-5 pt-3" id="languages">Languages and Technologies</h3>
 			<!-- my horizontal rule under languages and technologies -->
 			<hr class="pb-3">
 			<ul class="text-left">
@@ -222,7 +222,7 @@
 		</div>
 		<!-- contact me form -->
 		<div class="container-fluid text-center">
-			<h3 class="mt-5" id="contact">Contact Me</h3>
+			<h3 class="mt-5 pt-3" id="contact">Contact Me</h3>
 			<!-- the horizontal rule under my contact me title -->
 			<hr class="pb-3">
 			<form id="contact-form" action="php/mailer.php" method="post">
