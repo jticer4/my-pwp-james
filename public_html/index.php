@@ -82,7 +82,7 @@
 				<div class="col-md-4 text-right">
 			<!-- about me section -->
 					<h5>About Me</h5>
-					<p>The key to more success is to get a massage once a week, very important, major key, cloth talk. Hammock talk come soon. They don’t want us to win. We the best. Let’s see what Chef Dee got that they don’t want us to eat. I’m up to something.</p>
+					<p>James Ticer is a UI/UX focused Full Stack Web Developer. He strives to make the internet a better place by crafting elegant and user friendly web applications.</p>
 				</div>
 
 				<div class="col-md-4">
