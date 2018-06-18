@@ -95,6 +95,7 @@
 					<p><strong>Name:</strong><br>James E Ticer IV</p>
 					<p><strong>Age:</strong><br>25</p>
 					<p><strong>Location:</strong><br>Albuquerque, NM</p>
+					//TODO ADD RESUME LINK THAT POPS UP RESUME WITH THE TARGET BLANK ATTRIBUTE
 				</div>
 			</div>
 		</div>
@@ -113,6 +114,8 @@
 			<!-- my horizontal rule after my experience and projects section -->
 			<hr class="pb-3">
 			<!-- my actual experience goes here -->
+			<p class="pb-3"><a href="https://bit.ly/onTapAbq" target="_blank"><img id="onTapScreenshot" src="onTapScreenshot.png" alt="screenshot of on tap website" ></a><br><strong>OnTap, </strong>A web application designed to support local breweries and assist users in finding beers based on style, alcohol content, and bitterness.</p>
+			<p class="pb-3"><strong>Angular Attack, </strong>A 48 hour online hackathon consisting of teams of 4 people, 2018.</p>
 			<p class="pb-3"><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
 			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
 		</div>

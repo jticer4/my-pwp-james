@@ -42,3 +42,9 @@
 	background: url("resized-background-image.jpg") no-repeat center center;
 	background-size: cover;
 }
+
+#onTapScreenshot {
+	height: 15em;
+	width: 20em;
+	margin-bottom: 1em;
+}
