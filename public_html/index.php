@@ -95,7 +95,7 @@
 					<p><strong>Name:</strong><br>James E Ticer IV</p>
 					<p><strong>Age:</strong><br>25</p>
 					<p><strong>Location:</strong><br>Albuquerque, NM</p>
-					<p><strong>My Resume: </strong><a href="JamesTicerResume.pdf" target="_blank">Click Here</a></p>
+					<p><strong>My Resume: </strong><a href="JamesTicerResume.pdf" target="_blank"><br>Click Here</a></p>
 				</div>
 			</div>
 		</div>
