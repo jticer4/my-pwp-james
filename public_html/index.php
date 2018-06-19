@@ -55,7 +55,7 @@
 						<a id="git" class="fab fa-github" href="https://github.com/jticer4" target="_blank"></a>
 						<a id="linkedin" class="fab fa-linkedin" href="https://www.linkedin.com/in/jticer4/" target="_blank"></a>
 						<a id="twitter" class="fab fa-twitter" href="https://twitter.com/jticer4" target="_blank"></a>
-						<a id="mail" class="fas fa-envelope" href="mailto:jticer4@gmail.com"></a>
+						<a id="mail" class="fas fa-envelope" href="mailto:james@jticer4.com"></a>
 					</span>
 				</nav>
 			</div>
