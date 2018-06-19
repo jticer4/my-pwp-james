@@ -44,7 +44,7 @@
 						<!-- content within the drop down button -->
 						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 							<a class="dropdown-item" href="#profile">Profile</a>
-							<a class="dropdown-item" href="#edumacations">Edumacations</a>
+							<a class="dropdown-item" href="#edumacations">Education</a>
 							<a class="dropdown-item" href="#experience">Experience and Projects</a>
 							<a class="dropdown-item" href="#languages">Languages and Technologies</a>
 							<a class="dropdown-item" href="#contact">Contact Me</a>
@@ -101,7 +101,7 @@
 		</div>
 		<!-- edumacations section -->
 		<div class="container-fluid text-center">
-			<h3 class="mt-5 pt-3" id="edumacations">Edumacations</h3>
+			<h3 class="mt-5 pt-3" id="edumacations">Education</h3>
 			<!-- my horizontal rule after the edumacations title -->
 			<hr class="pb-3">
 			<!-- my edumacational credentials are listed here -->
@@ -114,10 +114,10 @@
 			<!-- my horizontal rule after my experience and projects section -->
 			<hr class="pb-3">
 			<!-- my actual experience goes here -->
-			<p class="pb-3"><a href="https://bit.ly/onTapAbq" target="_blank"><img id="onTapScreenshot" src="onTapScreenshot.png" alt="screenshot of on tap website" ></a><br><strong>OnTap, </strong>A web application designed to support local breweries and assist users in finding beers based on style, alcohol content, and bitterness.</p>
-			<p class="pb-3"><a href="https://www.angularattack.com/" target="_blank"><img id="angularAttackScreenshot" src="angular-attack-screenshot.png" alt="screenshot of angular attack website"></a><br><strong>Angular Attack, </strong>A 48 hour online hackathon consisting of teams of 4 people, 2018.</p>
-			<p class="pb-3"><strong>Night Manager, </strong>Ocean Properties of New Mexico 2016 to 2018</p>
-			<p><strong>Talent Acquisition Specialist, </strong> Everett James Group 2015 to 2016</p>
+			<p class="pb-3"><a href="https://bit.ly/onTapAbq" target="_blank"><img id="onTapScreenshot" src="onTapScreenshot.png" alt="screenshot of on tap website" ></a><br><strong>onTap</strong><br>A web application designed to support local breweries and assist users in finding beers based on style, alcohol content, and bitterness.</p>
+			<p class="pb-3"><a href="https://www.angularattack.com/" target="_blank"><img id="angularAttackScreenshot" src="angular-attack-screenshot.png" alt="screenshot of angular attack website"></a><br><strong>Angular Attack</strong><br>A 48 hour online hackathon using the Angular 5 framework with a team of 3 other developers, 2018.</p>
+			<p class="pb-3"><strong>Night Manager</strong><br>Ocean Properties of New Mexico 2016 to 2018</p>
+			<p><strong>Talent Acquisition Specialist</strong><br> Everett James Group 2015 to 2016</p>
 		</div>
 		<!-- languages and technologies section -->
 		<div class="container-fluid text-center">
