@@ -28,7 +28,7 @@
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
 
-		<title>James Ticer PWP</title>
+		<title>James Ticer | Software Developer</title>
 	</head>
 	<body>
 
@@ -113,8 +113,9 @@
 			<h3 class="mt-5 pt-3" id="experience">Experience and Projects</h3>
 			<!-- my horizontal rule after my experience and projects section -->
 			<hr class="pb-3">
-			<!-- my actual experience goes here -->
-			<p class="pb-3"><a href="https://bit.ly/onTapAbq" target="_blank"><img id="onTapScreenshot" src="onTapScreenshot.png" alt="screenshot of on tap website" ></a><br><strong>onTap</strong><br>A web application designed to support local breweries and assist users in finding beers based on style, alcohol content, and bitterness.</p>
+			<!-- my experience goes here -->
+			<p class="pb-3"><a href="http://www.jamesticerworkshop.com/flappy-burqueno" target="_blank"><img id="flappyBurquenoScreenshot" src="flappyBurquenoScreenshot.png" alt="screenshot of flappy burqueno website"></a><br><strong>Flappy Burqueno</strong><br><em>(Current Version in Beta)</em><br>An Albuquerque inspired rendition of the popular mobile game Flappy Bird. Built using Vanilla JavaScript.</p>
+			<p class="pb-3"><img id="onTapScreenshot" src="onTapScreenshot.png" alt="screenshot of on tap website" ><br><strong>onTap</strong><br>A web application designed to support local breweries and assist users in finding beers based on style, alcohol content, and bitterness.</p>
 			<p class="pb-3"><a href="https://www.angularattack.com/" target="_blank"><img id="angularAttackScreenshot" src="angular-attack-screenshot.png" alt="screenshot of angular attack website"></a><br><strong>Angular Attack</strong><br>A 48 hour online hackathon using the Angular 5 framework with a team of 3 other developers, 2018.</p>
 			<p class="pb-3"><strong>Night Manager</strong><br>Ocean Properties of New Mexico 2016 to 2018</p>
 			<p><strong>Talent Acquisition Specialist</strong><br> Everett James Group 2015 to 2016</p>
