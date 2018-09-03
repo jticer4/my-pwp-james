@@ -45,13 +45,13 @@
 
 #onTapScreenshot {
 	height: 15rem;
-	width: 20rem;
+	width: 24rem;
 	margin-bottom: 1rem;
 }
 
 #angularAttackScreenshot {
 	height: 17rem;
-	width: 20rem;
+	width: 24rem;
 	margin-bottom: 1rem;
 }
 
@@ -61,8 +61,8 @@
 	margin-bottom: 1rem;
 }
 
-#reactCalculatorScreenshot {
+#reactMovieFinderScreenshot {
 	height: 17rem;
-	width: 20rem;
+	width: 24rem;
 	margin-bottom: 1rem;
 }
